@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "EternalSoul",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "NightfallDistrict.aternos.me",
