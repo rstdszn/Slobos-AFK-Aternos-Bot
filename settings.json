@@ -8,8 +8,8 @@
   "server": {
     "ip": "NightfallDistrict.aternos.me",
     "port": 50227,
-    "version": "26.1.2",
-    "try-creative": true
+    "version": "",
+    "try-creative": false
   },
   "position": {
     "enabled": true,
